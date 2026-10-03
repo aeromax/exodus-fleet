@@ -14,3 +14,9 @@ A real-time space strategy game for the browser, in the style of Homeworld.
 - Space: sensors manager
 - Ctrl+1–9: assign groups
 - H / S / P: harvest / stop / pause
+- G / T: cycle formation / tactics
+- N: sound and voice on/off
+
+## Features
+
+Mothership economy with resource collectors, a research tree (corvettes, bombers, ion frigates, sensors, hull armor), fog of war, five formations, three tactics stances, synthesized sound with a Fleet Command voice, and hyperspace arrivals for both fleets.
